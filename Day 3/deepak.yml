@@ -1,0 +1,13 @@
+---
+name : "Deepak Kumar"
+age  : 24
+work : true
+Tasks: 
+  - job
+  - trade
+  - clothing brand
+address:
+  street : 2
+  city : ludhiana
+  state : punjab
+  
